@@ -1,2 +1,9 @@
-# java-conta-bancaria
-Desafio final do curso "Java: criando a sua primeira aplicação", da Alura. Pude entender o processo de complicação e execução de uma aplicação em Java, conhecer os tipos de dados, aprender a utilizar o Scanner para leitura de dados e controlar o fluxo da aplicação com o uso de condicionais e loops.
+# Desafio em Java: Simulação de uma conta bancária
+
+Desafio final do curso "Java: criando a sua primeira aplicação", da Alura. 
+
+## Conteúdos trabalhados:
+1. Compreensão do processo de compilação e execução de uma aplicação Java
+2. Conhecimento dos principais tipos de dados
+3. Uso do Scanner para leitura de dados
+4. Controle do fluxo da aplicação com o uso de condicionais e loops
