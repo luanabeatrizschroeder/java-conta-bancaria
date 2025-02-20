@@ -39,7 +39,7 @@ public class Main {
                 System.out.println("O saldo atualizado é R$" + saldo);
             } else if (opcao == 3) {
                 System.out.println("Informe o valor que quer transferir:");
-                int valorTransferir = scanner.nextInt();
+                double valorTransferir = scanner.nextDouble();
                 if (valorTransferir > saldo) {
                     System.out.println("Impossível transferir, valor maior que seu saldo em conta.");
                 } else if (valorTransferir <= saldo) {
