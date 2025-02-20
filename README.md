@@ -79,4 +79,5 @@ Usuário: 200
 #### Observações:
 - Toda opção depois de dar a resposta irá retonar ao menu novamente para que possa escolher uma nova opção ou encerrar o programa;
 - Caso digite uma opção inválida (ou seja, diferente de 1, 2, 3 ou 4) o sistema irá retornar o texto
+
   ```Opção inválida, tente novamente.```
